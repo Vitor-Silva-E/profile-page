@@ -1,0 +1,21 @@
+body{
+    color: #041422;
+    background:#318ECB;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    margin: 2.5rem 0 0 0;
+    text-align:center;
+    color: #103356;
+}
+main p{
+margin: 2rem 0 0 0;
+}
+header img{
+    width: 2.5rem;
+    height: 2.5rem;
+    margin: 2.5rem 0 0 0 ;
+}
+.container{
+    padding: 0 2.5rem 0 2.5rem;
+}

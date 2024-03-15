@@ -1,0 +1,127 @@
+body{
+    color: #1d3e6a;
+    background:#dee8ef;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    font-size: 18px;
+display: flex;
+justify-content: space-between;
+list-style: none;
+align-items: center;
+padding: 0px 50px;
+}
+
+nav a{
+    color: #8018a6;
+    text-decoration: none;
+   
+}
+nav a:hover{
+    color: #8018a6;
+}
+footer a{
+    color: #301d37;
+    text-decoration: none;
+   
+}
+
+.mim{
+    border: solid 2px #973fba;
+    border-radius: 1.5rem;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+    outline: 2px solid transparent;
+    outline-offset: -2px;
+    padding: 0.5rem;
+}
+.mim:hover{
+    background: #c0baf382;
+    color: #8018a6;
+}
+.projects{
+    border: solid 2px #973fba;
+    border-radius: 1.5rem;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+    outline: 2px solid transparent;
+    outline-offset: -2px;
+    padding: 0.5rem;
+}
+.projects:hover{
+    background: #c0baf382;
+    color: #8018a6;
+}
+.contacts{
+    border: solid 2px #973fba;
+    border-radius: 1.5rem;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5;
+    outline: 2px solid transparent;
+    outline-offset: -2px;
+    padding: 0.5rem;
+}
+.contacts:hover{
+    background: #c0baf382;
+    color: #8018a6;
+}
+h1{
+    padding: 1rem;
+    color: #062039;
+    padding: 0px 50px;
+}
+h3{
+    color: #042342;
+    padding: 0px 50px;
+}
+h2{
+    color: #482158;
+    padding: 0px 50px;
+}
+main p{
+    color: #042342;
+    padding: 0px 50px;
+    line-height: 1.8rem;
+    
+}
+main{
+    background: #d9e9f4;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+header img{
+    width:10.5rem;
+    height: 10.5rem;
+    border-radius: 50%;
+    border: 5px solid #845097;
+}
+footer img{
+    width:3.5rem;
+    height: 3.5rem;
+}
+footer{
+    display: flex;
+    justify-content: center;
+  background: #77a0db23;
+}
+footer a{
+    margin: 4rem 3rem 1rem 3rem ;
+    text-align:center;
+}
+footer p{
+  
+    margin-top: 0.2rem;
+}
+.image-center{
+text-align: center;
+}
+
+
